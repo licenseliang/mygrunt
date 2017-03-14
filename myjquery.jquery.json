@@ -1,0 +1,26 @@
+{
+  "name": "myjquery",
+  "title": "myjquery",
+  "description": "that is myjquery",
+  "version": "0.1.0",
+  "homepage": "https://github.com/liangshianliang/mygrunt",
+  "author": {
+    "name": "license",
+    "email": "hjsmliang2000@163.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/liangshianliang/mygrunt.git"
+  },
+  "bugs": "https://github.com/liangshianliang/mygrunt/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/liangshianliang/mygrunt/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
